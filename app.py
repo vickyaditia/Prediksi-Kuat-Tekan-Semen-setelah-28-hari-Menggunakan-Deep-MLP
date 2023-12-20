@@ -3,6 +3,7 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from keras.models import load_model
 import joblib
+import time
 
 # Load the trained model
 model = load_model("kel10.h5")
@@ -17,8 +18,11 @@ def preprocess_input(input_data, scaler):
 
 def predict(input_data):
     # Make predictions using the loaded model
+    start_time = time.time()
     predictions = model.predict(input_data)
-    return predictions
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+    return predictions, elapsed_time
 
 def main():
     st.title("Model Deployment with Streamlit")
@@ -45,12 +49,13 @@ def main():
     # Preprocess input features using the loaded scaler
     input_data_std = preprocess_input(input_data, scaler)
 
-    # Make predictions
-    predictions = predict(input_data_std)
+    # Make predictions and measure time
+    predictions, elapsed_time = predict(input_data_std)
 
-    # Display the predictions
+    # Display the predictions and elapsed time
     st.header("Predictions:")
     st.write(f"Predicted Value: {predictions[0][0]}")
+    st.write(f"Elapsed Time for Prediction: {elapsed_time:.6f} seconds")
 
 if __name__ == "__main__":
     main()
