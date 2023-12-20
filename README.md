@@ -1,21 +1,21 @@
 # Nama Kelompok 10 - Proyek Sains Data : Prediksi Kuat Tekan Semen 28 Hari Kedepan
 
-Selamat datang di repositori proyek XYZ yang dikerjakan oleh Kelompok 10. Berikut adalah informasi lebih lanjut tentang kelompok kami.
+Selamat datang di repositori Kelompok 10. Berikut adalah informasi lebih lanjut tentang kelompok kami.
 
 ## Anggota Kelompok
 
 1. **[Vicky Aditia](https://github.com/vickyaditia)**
    - Deskripsi: Main Character.
-   - ![12FAF3BF-2F7D-4C8C-9B0A-278BA823C329_1_105_c](https://github.com/sains-data/Prediksi-Kuat-Tekan-Semen-setelah-28-hari-Menggunakan-Deep-MLP/assets/124554146/f5320630-3798-4634-ace5-3d6eaaaf231f)
+   - <img src="https://github.com/sains-data/Prediksi-Kuat-Tekan-Semen-setelah-28-hari-Menggunakan-Deep-MLP/assets/124554146/f5320630-3798-4634-ace5-3d6eaaaf231f" alt="Deskripsi Gambar" width="300">
 
 
 2. **[Cania Gisella Br Tarigan](https://github.com/mycaca12)**
    - Deskripsi: Menolak Lazy.
-   - ![image](https://github.com/sains-data/Prediksi-Kuat-Tekan-Semen-setelah-28-hari-Menggunakan-Deep-MLP/assets/124554146/5fb8dc39-36e5-48fe-9e25-6055204d8abb)
+   - <img src="https://github.com/sains-data/Prediksi-Kuat-Tekan-Semen-setelah-28-hari-Menggunakan-Deep-MLP/assets/124554146/5fb8dc39-36e5-48fe-9e25-6055204d8abb" alt="Deskripsi Gambar" width="300">
 
 3. **[Cornel Silaen](https://github.com/onelllls)**
    - Deskripsi: Big Boy.
-   - ![image](https://github.com/sains-data/Prediksi-Kuat-Tekan-Semen-setelah-28-hari-Menggunakan-Deep-MLP/assets/124554146/e5792778-8382-45ba-99a5-bbdbcb89ab71)
+   - <img src="https://github.com/sains-data/Prediksi-Kuat-Tekan-Semen-setelah-28-hari-Menggunakan-Deep-MLP/assets/124554146/e5792778-8382-45ba-99a5-bbdbcb89ab71" alt="Deskripsi Gambar" width="300">
 
 ## Deskripsi Proyek
 
