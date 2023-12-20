@@ -6,18 +6,16 @@ Selamat datang di repositori proyek XYZ yang dikerjakan oleh Kelompok 10. Beriku
 
 1. **[Vicky Aditia](https://github.com/vickyaditia)**
    - Deskripsi: Main Character.
-   - ![Foto Vicky](![12FAF3BF-2F7D-4C8C-9B0A-278BA823C329_1_105_c](https://github.com/sains-data/Prediksi-Kuat-Tekan-Semen-setelah-28-hari-Menggunakan-Deep-MLP/assets/124554146/7632d9cb-79be-4430-9945-3235425bf02d)
-)
+   - ![12FAF3BF-2F7D-4C8C-9B0A-278BA823C329_1_105_c](https://github.com/sains-data/Prediksi-Kuat-Tekan-Semen-setelah-28-hari-Menggunakan-Deep-MLP/assets/124554146/f5320630-3798-4634-ace5-3d6eaaaf231f)
+
 
 2. **[Cania Gisella Br Tarigan](https://github.com/mycaca12)**
    - Deskripsi: Menolak Lazy.
-   - ![Foto Cania](![image](https://github.com/sains-data/Prediksi-Kuat-Tekan-Semen-setelah-28-hari-Menggunakan-Deep-MLP/assets/124554146/5fb8dc39-36e5-48fe-9e25-6055204d8abb)
-)
+   - ![image](https://github.com/sains-data/Prediksi-Kuat-Tekan-Semen-setelah-28-hari-Menggunakan-Deep-MLP/assets/124554146/5fb8dc39-36e5-48fe-9e25-6055204d8abb)
 
 3. **[Cornel Silaen](https://github.com/onelllls)**
    - Deskripsi: Big Boy.
-   - ![Foto Cornel](![image](https://github.com/sains-data/Prediksi-Kuat-Tekan-Semen-setelah-28-hari-Menggunakan-Deep-MLP/assets/124554146/e5792778-8382-45ba-99a5-bbdbcb89ab71)
-)
+   - ![image](https://github.com/sains-data/Prediksi-Kuat-Tekan-Semen-setelah-28-hari-Menggunakan-Deep-MLP/assets/124554146/e5792778-8382-45ba-99a5-bbdbcb89ab71)
 
 ## Deskripsi Proyek
 
