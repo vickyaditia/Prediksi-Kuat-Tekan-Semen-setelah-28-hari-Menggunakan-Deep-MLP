@@ -19,7 +19,8 @@ Selamat datang di repositori Kelompok 10. Berikut adalah informasi lebih lanjut 
 
 ## Deskripsi Proyek
 
-Proyek ini bertujuan untuk mengembangkan model prediksi kuat tekan semen 28 hari ke depan menggunakan pendekatan Deep Learning dengan Metode Deep MLP. Kuat tekan semen adalah parameter kritis dalam industri konstruksi yang mempengaruhi kekuatan dan daya tahan beton. Dengan memanfaatkan teknik sains data, proyek ini bertujuan untuk memberikan estimasi akurat tentang kuat tekan semen pada hari ke-28 berdasarkan data variabel independen yang relevan.
+Proyek ini bertujuan untuk mengembangkan model prediksi kuat tekan semen 28 hari ke depan menggunakan pendekatan Deep Learning dengan Metode Deep MLP. Kuat tekan semen adalah parameter kritis dalam industri konstruksi yang mempengaruhi kekuatan dan daya tahan beton. Dengan memanfaatkan teknik sains data, proyek ini bertujuan untuk memberikan estimasi akurat tentang kuat tekan semen pada hari ke-28 berdasarkan data variabel independen yang relevan. Lihat model yang telah di deploy di: 
+https://kel10-prediksi.streamlit.app/
 
 Cara Membuat deployment yaitu sebagai berikut.
 1.	Persiapan aplikasi Streamlit (Memastikan streamlit telah dikembangkan dan diuji secara lokal PC, pastikan PC sudah menginstal Python dan Visual Studio Code. 
