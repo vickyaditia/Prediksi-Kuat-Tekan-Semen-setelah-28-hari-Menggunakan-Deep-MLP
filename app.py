@@ -27,7 +27,6 @@ def predict(input_data):
 def main():
     # Set page title and description
     st.title("Prediksi Kuat Tekan Semen Setelah 28 Hari")
-    st.write("Proyek Sains Data Kelompok 10")
 
     # Create input form for user input
     st.header("Input Features (Dalam Persen):")
